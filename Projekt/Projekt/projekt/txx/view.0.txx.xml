@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ColorCache Version="1.0.0">
+ <ColorMap size="10">
+  <ColorMapEntry val="1.27" r="252" g="110" b="110" symbol="SOLID"/>
+  <ColorMapEntry val="1.1289" r="242" g="142" b="17" symbol="SOLID"/>
+  <ColorMapEntry val="0.9878" r="222" g="235" b="124" symbol="SOLID"/>
+  <ColorMapEntry val="0.8467" r="131" g="236" b="78" symbol="SOLID"/>
+  <ColorMapEntry val="0.7056" r="101" g="244" b="133" symbol="SOLID"/>
+  <ColorMapEntry val="0.5644" r="92" g="206" b="180" symbol="SOLID"/>
+  <ColorMapEntry val="0.4233" r="28" g="174" b="247" symbol="SOLID"/>
+  <ColorMapEntry val="0.2822" r="139" g="148" b="219" symbol="SOLID"/>
+  <ColorMapEntry val="0.1411" r="117" g="12" b="249" symbol="SOLID"/>
+  <ColorMapEntry val="0.0" r="225" g="96" b="225" symbol="SOLID"/>
+ </ColorMap>
+</ColorCache>
