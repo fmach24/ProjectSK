@@ -1,0 +1,384 @@
+Threshold % of grid points:  4
+ 2nd 3rd server neighbors included                
+Server - # of neighbors - # of grid points
+------------------------------------------
+ABAA0001    4     5210
+   ABAA0002       1698                      
+   ABAA0003        570                      
+   ABAB0001        515                      
+   ABAL0001        347                      
+ABAA0002    3      733
+   ABAA0001        356                      
+   ABAA0003        268                      
+   ABAL0002         31  ** not reciprocated 
+ABAA0003    4     1745
+   ABAA0002        993                      
+   ABAA0001        258                      
+   ABAJ0002         90  ** not reciprocated 
+   ABAL0002         84                      
+ABAB0001    6     6520
+   ABBG0003       1848                      
+   ABAA0001       1122                      
+   ABBH0001        824  ** not reciprocated 
+   ABBK0001        677                      
+   ABAC0002        644                      
+   ABAR0003        375  ** not reciprocated 
+ABAC0001    3     2275
+   ABAC0002        980                      
+   ABBG0003        816                      
+   ABAK0002        181                      
+ABAC0002    5     2794
+   ABAC0001       1324                      
+   ABBG0003        515                      
+   ABAB0001        295                      
+   ABBK0001        174                      
+   ABBH0001        117  ** not reciprocated 
+ABAD0001    5     4599
+   ABAG0003       1315                      
+   ABAF0003        868                      
+   ABAD0002        796                      
+   ABAI0001        576                      
+   ABAJ0001        513                      
+ABAD0002    5     2939
+   ABAD0001       1436                      
+   ABAH0001        536                      
+   ABAM0002        208  ** not reciprocated 
+   ABAT0002        148  ** not reciprocated 
+   ABAH0003        122                      
+ABAF0001    6     1957
+   ABAG0002        562                      
+   ABAF0002        450                      
+   ABAN0002        261                      
+   ABAG0001        235                      
+   ABAP0003         93  ** not reciprocated 
+   ABAF0003         89                      
+ABAF0002    6     4743
+   ABAG0002       1531                      
+   ABAF0001        749                      
+   ABAI0001        698                      
+   ABAN0002        392  ** not reciprocated 
+   ABAL0001        368                      
+   ABAF0003        337                      
+ABAF0003    6     1457
+   ABAF0002        325                      
+   ABAG0003        314                      
+   ABAG0002        265  ** not reciprocated 
+   ABAD0001        243                      
+   ABAI0001        134                      
+   ABAF0001         93                      
+ABAG0001    5     2232
+   ABAF0001        546                      
+   ABAG0003        480                      
+   ABAG0002        343                      
+   ABAN0002        321                      
+   ABAH0001        304                      
+ABAG0002    5     1409
+   ABAG0001        328                      
+   ABAF0002        235                      
+   ABAF0001        205                      
+   ABAN0002        119  ** not reciprocated 
+   ABAG0003        108                      
+ABAG0003    4     1590
+   ABAF0003        451                      
+   ABAG0001        425                      
+   ABAD0001        390                      
+   ABAG0002        208                      
+ABAH0001    6     4392
+   ABAM0002       1422                      
+   ABAH0003       1012                      
+   ABAD0002        520                      
+   ABAT0002        475                      
+   ABAN0001        378                      
+   ABAG0001        293                      
+ABAH0003    4     2443
+   ABAM0002        916                      
+   ABAH0001        680                      
+   ABAD0002        564                      
+   ABAT0002        156  ** not reciprocated 
+ABAI0001    5     6347
+   ABAL0001       1478                      
+   ABAD0001       1242                      
+   ABAJ0001       1046                      
+   ABAF0002       1028                      
+   ABAF0003        700                      
+ABAJ0001    5     4353
+   ABAJ0002       1636                      
+   ABAI0001       1412                      
+   ABAD0001        691                      
+   ABAA0003        204                      
+   ABAL0003        192  ** not reciprocated 
+ABAJ0002    2     4633
+   ABAL0003       2955                      
+   ABAJ0001       1462                      
+ABAK0002    2      841
+   ABBG0003        373  ** not reciprocated 
+   ABAC0001        289                      
+ABAL0001    7     8571
+   ABAA0003       1925                      
+   ABAL0002       1391                      
+   ABAI0001       1362                      
+   ABAV0003       1347                      
+   ABAL0003        751                      
+   ABAF0002        523                      
+   ABAA0001        455                      
+ABAL0002    3     3386
+   ABAL0001       1560                      
+   ABAL0003       1129                      
+   ABAA0003        292                      
+ABAL0003    4     6216
+   ABAJ0002       2481                      
+   ABAL0002       2095                      
+   ABAL0001        943                      
+   ABAA0003        503  ** not reciprocated 
+ABAM0001    4     6566
+   ABAT0002       2648                      
+   ABAM0002       1791                      
+   ABAQ0001        986                      
+   ABAN0001        583  ** not reciprocated 
+ABAM0002    5     3438
+   ABAM0001       1057                      
+   ABAT0002        864                      
+   ABAH0003        762                      
+   ABAH0001        243                      
+   ABAQ0001        185  ** not reciprocated 
+ABAN0001    5     5950
+   ABAN0002       2003                      
+   ABAT0002       1518                      
+   ABAH0001        623                      
+   ABAM0002        336  ** not reciprocated 
+   ABAQ0001        321  ** not reciprocated 
+ABAN0002    5     7829
+   ABAN0001       2174                      
+   ABAF0001       1134                      
+   ABAP0003        797                      
+   ABAU0002        713                      
+   ABAG0001        677                      
+ABAO0001    6    11620
+   ABBD0003       2747                      
+   ABBL0001       2200                      
+   ABBJ0001       1815                      
+   ABAQ0001       1356                      
+   ABAU0001       1010                      
+   ABAX0003        531  ** not reciprocated 
+ABAP0001    4     4975
+   ABAP0003       1380                      
+   ABBI0003       1312                      
+   ABAP0002       1180                      
+   ABAV0001        227  ** not reciprocated 
+ABAP0002    5     4611
+   ABAP0001       1350                      
+   ABAP0003       1158                      
+   ABBH0001        523                      
+   ABAR0003        235                      
+   ABBG0003        200  ** not reciprocated 
+ABAP0003    6     5803
+   ABAP0001       1417                      
+   ABAP0002        928                      
+   ABAV0001        864                      
+   ABAN0002        805                      
+   ABAA0001        437                      
+   ABAU0002        239  ** not reciprocated 
+ABAQ0001    5     4074
+   ABBC0002        730                      
+   ABAT0002        707                      
+   ABAM0001        361                      
+   ABAO0001        257                      
+   ABBD0003        218                      
+ABAR0003    9     4801
+   ABBH0001        533                      
+   ABBG0003        353                      
+   ABBI0003        329                      
+   ABBF0002        315                      
+   ABAS0003        309                      
+   ABAX0003        281                      
+   ABBI0002        264                      
+   ABAP0002        213                      
+   ABAA0001        203                      
+ABAS0003    4     3419
+   ABAR0003       1166                      
+   ABBH0001       1148                      
+   ABBI0002        489                      
+   ABBG0003        264  ** not reciprocated 
+ABAT0002    5     7936
+   ABAN0001       2597                      
+   ABAQ0001       1223                      
+   ABAM0002       1153                      
+   ABAM0001        929                      
+   ABAH0001        419                      
+ABAU0001    4     4511
+   ABBJ0001       1404                      
+   ABAU0002        804                      
+   ABAO0001        691                      
+   ABAN0001        466  ** not reciprocated 
+ABAU0002    4     6333
+   ABBJ0001       1618                      
+   ABAN0002       1386                      
+   ABAU0001        962                      
+   ABAN0001        469  ** not reciprocated 
+ABAV0001    4     3886
+   ABAV0003        963                      
+   ABAP0003        932                      
+   ABAV0002        736                      
+   ABAA0001        419                      
+ABAV0002    4     3237
+   ABAV0003       1475                      
+   ABAV0001        414                      
+   ABAB0001        330  ** not reciprocated 
+   ABBH0001        139  ** not reciprocated 
+ABAV0003    4     3832
+   ABAL0001       1158                      
+   ABAV0001        986                      
+   ABAV0002        773                      
+   ABAA0001        363                      
+ABAW0001    5     1894
+   ABAW0002        623                      
+   ABAW0003        571                      
+   ABAX0003        283                      
+   ABBF0002        189                      
+   ABAR0003         81  ** not reciprocated 
+ABAW0002    3     1650
+   ABAW0003        894                      
+   ABAW0001        507                      
+   ABBF0002         81                      
+ABAW0003    3      907
+   ABAW0001        446                      
+   ABAW0002        333                      
+   ABAX0003         62  ** not reciprocated 
+ABAX0003    3     4086
+   ABBF0002       1364                      
+   ABAR0003        495                      
+   ABAW0001        346                      
+ABAY0002    4     1384
+   ABAY0003        576                      
+   ABBE0003        426                      
+   ABBF0002        133  ** not reciprocated 
+   ABBA0001         68  ** not reciprocated 
+ABAY0003    6     1193
+   ABAY0002        621                      
+   ABBL0001        201  ** not reciprocated 
+   ABBE0003         96  ** not reciprocated 
+   ABAX0003         66  ** not reciprocated 
+   ABAR0003         62  ** not reciprocated 
+   ABBF0002         47  ** not reciprocated 
+ABAZ0001    7     3537
+   ABAO0001        857  ** not reciprocated 
+   ABBD0003        659                      
+   ABAQ0001        436  ** not reciprocated 
+   ABBL0001        255                      
+   ABAX0003        208  ** not reciprocated 
+   ABAN0001        194  ** not reciprocated 
+   ABBJ0001        190  ** not reciprocated 
+ABBA0001    9     1216
+   ABBL0001        280  ** not reciprocated 
+   ABAX0003        218  ** not reciprocated 
+   ABAN0001        163  ** not reciprocated 
+   ABAU0002        127  ** not reciprocated 
+   ABAR0003         93  ** not reciprocated 
+   ABBE0003         93  ** not reciprocated 
+   ABAW0001         70  ** not reciprocated 
+   ABBF0002         60  ** not reciprocated 
+   ABBJ0001         48  ** not reciprocated 
+ABBB0001    2      368
+   ABBB0002        224                      
+   ABBB0003        110                      
+ABBB0002    3      461
+   ABBB0003        260                      
+   ABBB0001        145                      
+   ABBH0001         33  ** not reciprocated 
+ABBB0003    2      205
+   ABBB0001        123                      
+   ABBB0002         73                      
+ABBC0002    4     1993
+   ABAQ0001        802                      
+   ABAO0001        293  ** not reciprocated 
+   ABBD0003        267  ** not reciprocated 
+   ABAT0002        129  ** not reciprocated 
+ABBD0001    2      624
+   ABBD0002        507                      
+   ABBD0003         93                      
+ABBD0002    2      535
+   ABBD0001        331                      
+   ABBD0003        153                      
+ABBD0003    9     3962
+   ABBE0003        651                      
+   ABBD0001        623                      
+   ABAO0001        456                      
+   ABAZ0001        403                      
+   ABBD0002        346                      
+   ABAQ0001        284                      
+   ABAX0003        265  ** not reciprocated 
+   ABBL0001        166                      
+   ABBJ0001        163                      
+ABBE0003    6     4660
+   ABBF0002       1009                      
+   ABAY0002        649                      
+   ABAX0003        347  ** not reciprocated 
+   ABBD0003        269                      
+   ABBL0001        216                      
+   ABBD0002        213  ** not reciprocated 
+ABBF0002    5     5044
+   ABAX0003       1382                      
+   ABBE0003        797                      
+   ABAR0003        408                      
+   ABAW0001        311                      
+   ABAW0002        216                      
+ABBG0003    7     8834
+   ABBH0001       1510                      
+   ABAC0001       1388  ** not reciprocated 
+   ABAB0001        982                      
+   ABBK0001        735                      
+   ABAA0001        674                      
+   ABAR0003        460                      
+   ABAC0002        448                      
+ABBH0001    5     7133
+   ABBG0003       2408                      
+   ABAS0003        913                      
+   ABAR0003        721                      
+   ABAP0002        602                      
+   ABBI0002        295                      
+ABBI0002    6     2946
+   ABBI0003       1037                      
+   ABAR0003        387                      
+   ABAS0003        349                      
+   ABAP0002        337  ** not reciprocated 
+   ABBH0001        234                      
+   ABAA0001        192                      
+ABBI0003    7     3977
+   ABAR0003       1020                      
+   ABBI0002        748                      
+   ABAP0001        489                      
+   ABBH0001        469  ** not reciprocated 
+   ABBG0003        221  ** not reciprocated 
+   ABBJ0001        201  ** not reciprocated 
+   ABAP0002        166  ** not reciprocated 
+ABBJ0001    9     7725
+   ABAU0002       2415                      
+   ABAO0001        623                      
+   ABBF0002        622  ** not reciprocated 
+   ABAX0003        456  ** not reciprocated 
+   ABAU0001        419                      
+   ABBE0003        396  ** not reciprocated 
+   ABBD0003        379                      
+   ABAR0003        364  ** not reciprocated 
+   ABBL0001        348                      
+ABBK0001    5     2189
+   ABAB0001        563  ** not reciprocated 
+   ABBK0002        523                      
+   ABAC0002        339                      
+   ABAA0001        229                      
+   ABBG0003        152                      
+ABBK0002    6      436
+   ABBK0001        207                      
+   ABAC0002        100                      
+   ABAB0001         43  ** not reciprocated 
+   ABBG0003         35  ** not reciprocated 
+   ABAR0003         27  ** not reciprocated 
+   ABBH0001         23  ** not reciprocated 
+ABBL0001    7     4810
+   ABAO0001       1035                      
+   ABBD0003        773                      
+   ABAZ0001        648                      
+   ABBJ0001        360                      
+   ABBE0003        339                      
+   ABAX0003        309  ** not reciprocated 
+   ABBF0002        226  ** not reciprocated 
